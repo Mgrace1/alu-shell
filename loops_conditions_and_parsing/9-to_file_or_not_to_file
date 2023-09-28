@@ -1,4 +1,6 @@
-!/bin/usr/env bash
+#!/usr/bin/env bash
+# Displays information about the file `school`.
+
 if [ -e "school" ]
 then
   echo "school file exists"
@@ -19,4 +21,3 @@ fi
 ~
 ~
 ~
-
