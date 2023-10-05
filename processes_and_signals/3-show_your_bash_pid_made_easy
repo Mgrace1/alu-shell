@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
 #then, use grep to find proccedss by name ps is not allowed
 
-
-pgrep -1 bash
