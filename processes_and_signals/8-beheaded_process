@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-#kill highlander
-pkill -f "highlander" --signal SIGKILL
+# Use pkill to stop the "7-highlander" process
+pkill -f "./7-highlander"
